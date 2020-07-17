@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on CVTE
+- 🌱 I’m currently learning anything
+- 😄 Pronouns: Dog🐶
+
 ![T-Oner's github stats](https://github-readme-stats.vercel.app/api?username=T-Oner&show_icons=true)
 
 <!--
