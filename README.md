@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CVTE
+- 🔭 I’m currently working on 炒股
 - 🌱 I’m currently learning anything
 - 📫 How to reach me: 公众号@自学路漫漫
 - 😄 Pronouns: Dog🐶
