@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![T-Oner's github stats](https://github-readme-stats.vercel.app/api?username=T-Oner)](https://github.com/anuraghazra/github-readme-stats)
+![T-Oner's github stats](https://github-readme-stats.vercel.app/api?username=T-Oner&show_icons=true)
 
 <!--
 **T-Oner/T-Oner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
