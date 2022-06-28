@@ -7,6 +7,8 @@
 
 ![T-Oner's github stats](https://github-readme-stats.vercel.app/api?username=T-Oner&show_icons=true)
 
+![T-Oner's github](https://github-readme-streak-stats.herokuapp.com/?user=T-Oner&)
+
 <!--
 **T-Oner/T-Oner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
