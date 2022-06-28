@@ -9,6 +9,8 @@
 
 ![T-Oner's github](https://github-readme-streak-stats.herokuapp.com/?user=T-Oner&)
 
+![T-Oner's Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=T-Oner&show_icons=true&locale=en&layout=compact)
+
 <!--
 **T-Oner/T-Oner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
